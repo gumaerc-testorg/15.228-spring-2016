@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e6e123ea-3387-ce86-f9b4-0b7558331e90
 title: How the Course Is Structured
 uid: 57c48a04-e2a0-5bb8-eae2-d04c1f33eadb

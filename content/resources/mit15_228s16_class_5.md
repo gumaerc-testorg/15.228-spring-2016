@@ -2,8 +2,13 @@
 content_type: resource
 description: Overview of a class session on how firms increase resilience in increasingly
   volatile environments.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/f72ab0841d62a96983b0ea2e7bb43204_MIT15_228S16_Class_5.pdf
+file: /media/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/f72ab0841d62a96983b0ea2e7bb43204_MIT15_228S16_Class_5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Class 5 Key Takeaways
 uid: f72ab084-1d62-a969-83b0-ea2e7bb43204

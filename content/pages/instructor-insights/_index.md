@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: e6e123ea-3387-ce86-f9b4-0b7558331e90
 ---
@@ -69,20 +71,6 @@ This course fulfills the SIP elective requirement
 ### Offered
 
 Every spring semester, although the focus of the Study Tour differs with each offering
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A photograph of a lecture hall at MIT, facing the chalkboard. The room has tiered seating.]({{< resource_file d3ede508-bf91-a943-91ab-979027baec7e >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Class sessions were held in a room with a seating capacity of 50 students, 4 sliding chalkboards, an LCD video projector, and tiered seating.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

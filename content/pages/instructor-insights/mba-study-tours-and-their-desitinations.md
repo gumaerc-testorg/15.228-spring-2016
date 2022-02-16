@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e6e123ea-3387-ce86-f9b4-0b7558331e90
 title: MBA Study Tours and Their Desitinations
 uid: bcd573b1-6a2b-ef0d-575a-1a7a73701b59

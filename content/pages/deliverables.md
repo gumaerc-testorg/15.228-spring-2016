@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Deliverables
 uid: 17186243-973e-d33b-bc80-0450081a7b85
 ---
