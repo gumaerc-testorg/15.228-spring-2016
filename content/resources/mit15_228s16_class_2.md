@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: dc287240-5f97-d3f8-14b3-b8605cba4373
 resourcetype: Document
 title: Class 2 Key Takeaways
 uid: 7f910cb9-f9c6-04ed-a1b9-ee2a70096041

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: dc287240-5f97-d3f8-14b3-b8605cba4373
 resourcetype: Document
 title: Class 5 Key Takeaways
 uid: f72ab084-1d62-a969-83b0-ea2e7bb43204

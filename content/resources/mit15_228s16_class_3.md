@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: dc287240-5f97-d3f8-14b3-b8605cba4373
 resourcetype: Document
 title: Class 3 Key Takeaways
 uid: 8f1fcad9-2df8-2ac3-9ff4-223d881f65fd
