@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on objectives and speakers, lecture
+  summaries, and lecture materials for each session of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -63,7 +65,7 @@ Michelle Hanlon, Howard W. Johnson Professor of Accounting
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 1 Key Takeaways (PDF)]({{< baseurl >}}/resources/mit15_228s16_class_1)
+{{% resource_link a9a9e320-4aa0-f823-85a4-08948addd3cc "Class 1 Key Takeaways (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +103,7 @@ Georgina Campbell, Executive Director of The Legatum Center & Former Director of
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 2 Key Takeaways (PDF)]({{< baseurl >}}/resources/mit15_228s16_class_2)
+{{% resource_link 7f910cb9-f9c6-04ed-a1b9-ee2a70096041 "Class 2 Key Takeaways (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +139,7 @@ Scott Stern, David Sarnoff Professor of Management of Technology, MIT
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 3 Key Takeaways (PDF)]({{< baseurl >}}/resources/mit15_228s16_class_3)
+{{% resource_link 8f1fcad9-2df8-2ac3-9ff4-223d881f65fd "Class 3 Key Takeaways (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +177,7 @@ Aithan Shapira, Artist, Lead Lecturer of MIT Sloan Innovation Period Course: _Br
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 4 Key Takeaways (PDF)]({{< baseurl >}}/resources/mit15_228s16_class_4)
+{{% resource_link b44cc443-190e-be65-667e-621b0b525f41 "Class 4 Key Takeaways (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +215,7 @@ Mercedes Delgado, Visiting Associate Professor of Technological Innovation, Entr
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Class 5 Key Takeaways (PDF)]({{< baseurl >}}/resources/mit15_228s16_class_5)
+{{% resource_link f72ab084-1d62-a969-83b0-ea2e7bb43204 "Class 5 Key Takeaways (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

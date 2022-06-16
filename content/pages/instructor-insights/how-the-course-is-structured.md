@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this Section, Neal Hartman describes how students help design and
+  arrange study tours and how the students are assessed.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "In this section, Neal Hartman explains the relation between the MBA\
+  \ study tour and MIT Sloan School\u2019s Action Learning labs."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

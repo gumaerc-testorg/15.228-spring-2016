@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Neal Hartman describes what is unique about the study
+  tours in general and what was unique about the trip to New Zealand.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
