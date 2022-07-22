@@ -6,6 +6,7 @@ file: /courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Class 5 Key Takeaways
 uid: f72ab084-1d62-a969-83b0-ea2e7bb43204
 ---
 Overview of a class session on how firms increase resilience in increasingly volatile environments.
-

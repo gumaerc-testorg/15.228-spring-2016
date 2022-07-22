@@ -7,6 +7,7 @@ file: /courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Class 3 Key Takeaways
 uid: 8f1fcad9-2df8-2ac3-9ff4-223d881f65fd
 ---
 Overview of a class session on the importance of establishing an Entrepreneurial Identity and the impact of an Entrepreneurial Ecosystem, using Clover and Avatech as case studies.
-

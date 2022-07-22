@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -17,4 +18,3 @@ title: ~20 students enrolled
 uid: 54c0211b-15ef-4006-451e-283e10d59f9a
 ---
 Image showing the approximate number of students enrolled in the class.
-

@@ -6,6 +6,7 @@ file: /courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Class 4 Key Takeaways
 uid: b44cc443-190e-be65-667e-621b0b525f41
 ---
 Overview of a class session on the Trans-Pacific Partnership agreement, innovation-driven entrepreneurial ecosystems, and the MIT-Kendall case.
-

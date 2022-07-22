@@ -7,6 +7,7 @@ file: /courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Class 1 Key Takeaways
 uid: a9a9e320-4aa0-f823-85a4-08948addd3cc
 ---
 Overview of a class session on frameworks for understanding the innovation ecosystem in New Zealand, how New Zealand fares compared to other countries, and the role governments can play to increase innovativeness.
-

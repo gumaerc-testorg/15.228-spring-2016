@@ -8,6 +8,7 @@ file: /courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Class 2 Key Takeaways
 uid: 7f910cb9-f9c6-04ed-a1b9-ee2a70096041
 ---
 Overview of a class session on the role of stakeholders in creating change for a sustainable innovation ecosystem as part of MIT Regional Entrepreneurship Acceleration Program’s (REAP’s) Innovation-Driven Entrepreneurial (IDE) ecosystems model.
-
