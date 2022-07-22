@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Neal Hartman describes what is unique about the study
+  tours in general and what was unique about the trip to New Zealand.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e6e123ea-3387-ce86-f9b4-0b7558331e90
 title: What Makes the Course Unique
 uid: e05c690d-c36c-e86a-a729-b9d2774ab6f6

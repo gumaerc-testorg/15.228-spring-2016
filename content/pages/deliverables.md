@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section outlines the deliverables for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Deliverables
 uid: 17186243-973e-d33b-bc80-0450081a7b85
 ---
