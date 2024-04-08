@@ -38,19 +38,19 @@ Course Foundations and Methods for Assessing Innovation at a National Level
 {{< tdopen >}}
 
 
-"[Cluster Mapping Methodology](http://clustermapping.us/content/cluster-mapping-methodology)." Cluster Mapping website.
+"{{% resource_link "82857ee7-07c7-474a-9ab9-9a83a6bd8607" "Cluster Mapping Methodology" %}}." Cluster Mapping website.
 
 ### Optional Readings
 
 These articles are linked through the Cluster Mapping Methodology website:
 
-Delgado, Porter, et al. "[Defining Clusters of Related Industries](http://dx.doi.org/10.1093/jeg/lbv017)." _Journal of Economic Geography_ 16, no. 1 (2016): 1–38.
+Delgado, Porter, et al. "{{% resource_link "2e9c839d-7963-423f-b2e3-232c762990c1" "Defining Clusters of Related Industries" %}}." _Journal of Economic Geography_ 16, no. 1 (2016): 1–38.
 
-———. ["Clusters, Convergence and Economic Performance." (PDF)](http://dx.doi.org/10.3386/w18250) NBER Working Paper Series, 2012.
+———. {{% resource_link "fb2361d9-efe8-4efa-aabd-a3883fc46b7d" "\"Clusters, Convergence and Economic Performance.\" (PDF)" %}} NBER Working Paper Series, 2012.
 
-"[Entrepreneurial Impact: The Role of MIT](http://www.kauffman.org/what-we-do/research/2009/08/entrepreneurial-impact-the-role-of-mit)." The Kauffman Foundation, 2009.
+"{{% resource_link "56829d3e-2019-4118-b460-ee24de02bc4a" "Entrepreneurial Impact: The Role of MIT" %}}." The Kauffman Foundation, 2009.
 
-Guzman, Stern, et al. ["The State of American Entrepreneurship." (PDF - 3.3MB)](http://dx.doi.org/10.3386/w22095) 2015.
+Guzman, Stern, et al. {{% resource_link "04aea9f1-8d60-4b0f-aa88-6b383a104eb5" "\"The State of American Entrepreneurship.\" (PDF - 3.3MB)" %}} 2015.
 
 
 {{< tdclose >}}
@@ -70,11 +70,11 @@ Investigating the New Zealand Innovation Ecosystem through MIT REAP
 {{< tdopen >}}
 
 
-"[About REAP Website](http://reap.mit.edu/about/)" and "[Dashboard](http://reap.mit.edu/dashboard/)"
+"{{% resource_link "192c1928-b04e-45ad-a5a0-d41ea9e912fe" "About REAP Website" %}}" and "{{% resource_link "7595f879-e3c7-46bb-9105-0da70c6e60af" "Dashboard" %}}"
 
-Budden, and Murray. "[Entrepreneurial Opportunity in the Global Innovation Economy](http://archive.boston.com/business/blogs/global-business-hub/2014/01/greater_boston_1.html)." Boston.com, 2014.
+Budden, and Murray. "{{% resource_link "26910b3a-8ca6-4546-a0a6-c7570528526d" "Entrepreneurial Opportunity in the Global Innovation Economy" %}}." Boston.com, 2014.
 
-"[The Collective Impact Framework](https://enm.org.nz/application/files/5714/2370/3141/The_Collective_Impact_Framework-Part_B-Biodiversity-Example.pdf)." Collaboration for Impact beta site.
+"{{% resource_link "6cf59ec2-51fb-46e5-a5b4-d09bebcfbf58" "The Collective Impact Framework" %}}." Collaboration for Impact beta site.
 
 ### Optional Readings
 
@@ -98,9 +98,9 @@ Leveraging Your Entrepreneurial Ecosystem
 {{< tdopen >}}
 
 
-"[In Innovation Quest, Regions Seek Critical Mass](https://www.technologyreview.com/s/516501/in-innovation-quest-regions-seek-critical-mass/)." MIT Technology Review, 2013.
+"{{% resource_link "9444dca9-ff0e-45d3-b794-f48dd7cc4e9c" "In Innovation Quest, Regions Seek Critical Mass" %}}." MIT Technology Review, 2013.
 
-Ghosh, Shikhar, Christopher Payton, and Ali Huberlie. "[Clover Food Lab: Building Out the Team](https://hbr.org/product/Clover-Food-Lab--Building/an/816042-PDF-ENG)." Harvard Business School Case 816-042, August 2015. (Revised October 2015.)
+Ghosh, Shikhar, Christopher Payton, and Ali Huberlie. "{{% resource_link "70a06f67-fe69-4a53-97dc-ea9a925396e8" "Clover Food Lab: Building Out the Team" %}}." Harvard Business School Case 816-042, August 2015. (Revised October 2015.)
 
 
 {{< tdclose >}}
@@ -122,13 +122,13 @@ MIT-Kendall Case / Rethinking Ingenuity in New Zealand
 
 Budden, Phil, and Fiona Murray. "Kendall Square and MIT: Innovation Ecosystems and the University." Case Study, 2015 (draft).
 
-Bracewell, Joseph. "[Creative Industries add $3.5 billion to NZ's GDP & WeCreate.org.na formed to Champion the Creative Sector](http://wecreate.org.nz/427/)." _We Create_.
+Bracewell, Joseph. "{{% resource_link "90bcfba4-b414-42c9-b94d-542780b87dc8" "Creative Industries add $3.5 billion to NZ's GDP & WeCreate.org.na formed to Champion the Creative Sector" %}}." _We Create_.
 
 ### Optional Readings
 
-"[Art the Verb](http://limeshift.com/art-the-verb)." LimeShift, 2016.
+"{{% resource_link "259dbbf2-09d8-4824-8b87-4ac7505a7dba" "Art the Verb" %}}." LimeShift, 2016.
 
-["_Final Report of Community Feedback and Recommendations_." (PDF - 6.5MB)](http://innovation.mit.edu/assets/MIT-Innovation-Initiative-Final-Report-Jan-2016.pdf) MIT Innovation Initiative, 2016.
+{{% resource_link "4f0a10c1-2c34-4cdc-93c4-8bc425ef8e16" "\"_Final Report of Community Feedback and Recommendations_.\" (PDF - 6.5MB)" %}} MIT Innovation Initiative, 2016.
 
 
 {{< tdclose >}}
@@ -146,7 +146,7 @@ Investing in Your Comparative Advantage
 
 {{< tdclose >}}
 {{< tdopen >}}
-"[MIT's Innovation Diplomats Program](http://innovation.mit.edu/education-practice/innovation-diplomats/)." MIT Innovation Initiative.
+"{{% resource_link "a14d2044-1dc4-43ae-a19a-4d0e03cc1900" "MIT's Innovation Diplomats Program" %}}." MIT Innovation Initiative.
 {{< tdclose >}}
 
 {{< trclose >}}
