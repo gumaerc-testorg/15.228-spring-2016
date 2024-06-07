@@ -2,6 +2,7 @@
 content_type: resource
 description: Image showing the approximate number of students enrolled in the class.
 file: /courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/54c0211b15ef4006451e283e10d59f9a_20-approx.png
+file_size: 2950
 file_type: image/png
 image_metadata:
   caption: ''
