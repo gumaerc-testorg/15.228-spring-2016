@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photo of the classroom used for the course.
-file: /courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/d3ede508bf91a94391ab979027baec7e_15-228-classroom.jpg
+file: /ol-ocw-studio-app/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/d3ede508bf91a94391ab979027baec7e_15-228-classroom.jpg
 file_size: 74661
 file_type: image/jpeg
 image_metadata:
